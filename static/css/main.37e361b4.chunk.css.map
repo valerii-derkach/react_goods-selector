@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,2DACA,CAAA,qBACD,CAAA,MAGC,WACD,CAAA,MAGC,WACA,CAAA,WAAY","file":"main.37e361b4.chunk.css","sourcesContent":[".App {\n  background-image: url(./images/goods.jpg);\n  background-size: cover;\n}\n\n.item {\n  height: 75px;\n}\n\n.list {\n  width: 550px;\n  margin: auto;\n}\n"]}
